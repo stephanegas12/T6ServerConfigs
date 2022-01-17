@@ -1,12 +1,12 @@
 @echo off
 ::Paste the server key from https://platform.plutonium.pw/serverkeys here
-set key=placeServerKeyHere
+set key=dokzLB3mLGWFcOU1xOIE55kw94enEhjT
 ::Name of the config file the server should use. (default: dedicated_zm.cfg)
 set cfg=dedicated_zm.cfg
 ::Name of the server shown in the title of the cmd window. This will NOT bet shown ingame.
 set name=ZM 1
 ::Port used by the server (default: 4976)
-set port=4976
+set port=80
 ::Only change this when you don't want to keep the bat files in the game folder. MOST WON'T NEED TO EDIT THIS!
 set gamepath=%cd%
 
